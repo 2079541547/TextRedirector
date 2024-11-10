@@ -1,0 +1,23 @@
+{
+  "SpecialLoading": true,
+  "enablePrivate": true,
+  "customizePage": true,
+  "openSource": true,
+  "openSourceUrl": "https://github.com/2079541547/TextRedirector",
+  "ModName": "Text Redirector",
+  "Author": "EternalFuture゙",
+  "Identifier": "TextRedirector-EternalFuture",
+  "Introduce": {
+    "zh_cn": "一个用于重定向游戏文本的Mod",
+    "zh_hant": "一個用於重定向遊戲文本的Mod",
+    "ru": "Мод для перенаправления текста игры",
+    "en": "A mod for redirecting game text",
+    "ja": "ゲームテキストをリダイレクトするためのMOD",
+    "ko": "게임 텍스트를 리다이렉트하는 모드",
+    "it": "Un mod per la ridirezione del testo del gioco",
+    "es": "Un mod para redirigir el texto del juego",
+    "fr": "Un mod pour rediriger le texte du jeu",
+    "de": "Ein Mod zur Weiterleitung von Spieltext"
+  },
+  "Version": "1.0.0"
+}
