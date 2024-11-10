@@ -122,15 +122,15 @@ This is the content of example.txt.
 This is the redirected content.
 ```
 
-## 5. 注意事项
+## 6. 注意事项
 
 - 确保所有文件路径都是相对于 `Private_path` 的正确路径。
 - 在实际部署前，测试配置文件和文件路径以确保一切按预期工作。
 - 确保日志级别（`LogLevel::DEBUG` 和 `LogLevel::ERROR`）已经正确配置，以便能够查看程序运行时的日志输出，这对于调试非常有帮助。
 
-## 6. 附录
+## 7. 附录
 
-### 6.1 日志输出示例
+### 7.1 日志输出示例
 
 - **调试日志**：
   ```
